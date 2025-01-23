@@ -1,0 +1,72 @@
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\MultiMediaLesson.exe.config
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\MultiMediaLesson.exe
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\MultiMediaLesson.pdb
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMediaLesson.csproj.AssemblyReference.cache
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMediaLesson.Form1.resources
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMediaLesson.Properties.Resources.resources
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMediaLesson.csproj.GenerateResource.cache
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMediaLesson.csproj.CoreCompileInputs.cache
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMediaLesson.exe
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMediaLesson.pdb
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\Interop.WMPLib.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\Interop.WMPLib.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMediaLesson.csproj.ResolveComReference.cache
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.Asio.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.Core.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.Midi.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.Wasapi.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.WinForms.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.WinMM.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\System.Security.AccessControl.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.Asio.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.Core.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.Midi.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.Wasapi.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.WinForms.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\NAudio.WinMM.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\System.Security.AccessControl.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\yami_\Desktop\BowValley Archieve\Repositories\SODV2101 - Rapid Application Dev\MultiMediaLesson\obj\Debug\MultiMed.72D59B6A.Up2Date
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\MultiMediaLesson.exe.config
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\MultiMediaLesson.exe
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\MultiMediaLesson.pdb
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.Asio.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.Core.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.Midi.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.WinForms.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.WinMM.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.Asio.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.Core.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.Midi.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.WinForms.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\NAudio.WinMM.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMediaLesson.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMediaLesson.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMediaLesson.Form1.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMediaLesson.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMediaLesson.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMediaLesson.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMed.72D59B6A.Up2Date
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMediaLesson.exe
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Media-Player\obj\Debug\MultiMediaLesson.pdb
